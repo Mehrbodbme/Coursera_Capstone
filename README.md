@@ -1,1 +1,1 @@
-# Github-test
+# Coursear capstone project
